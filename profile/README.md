@@ -39,8 +39,7 @@ The `staked_conn` interface is similar to the RPC interface, primarily providing
 
 #### Example for `cmd: curl`:
 ```bash
-curl -X 'POST' \
-'ny.tianyinode.com:8897?api-key=$TOKEN' \
+curl -X POST 'http://ny.tianyinode.com?api-key=$TOKEN' \
 -d '{
     "jsonrpc": "2.0",
     "id": $UUID,
