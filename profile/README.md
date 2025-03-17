@@ -39,7 +39,7 @@ The `staked_conn` interface is similar to the RPC interface, primarily providing
 
 #### Example for `cmd: curl`:
 ```bash
-curl -X POST 'https://ny1.0slot.trade?api-key=$TOKEN' \
+curl -X POST 'https://ny.0slot.trade?api-key=$TOKEN' \
 -d '{
     "jsonrpc": "2.0",
     "id": $UUID,
@@ -52,9 +52,9 @@ curl -X POST 'https://ny1.0slot.trade?api-key=$TOKEN' \
 ```
 
 #### For better performance and faster speeds, you can test and select the most suitable IP to use:
-- **NY**: `ny1.0slot.trade`
-- **Frankfurt**: `de1.0slot.trade`
-- **AMS NL**: `ams1.0slot.trade`
+- **NY**: `ny.0slot.trade`
+- **Frankfurt**: `de.0slot.trade`
+- **AMS NL**: `ams.0slot.trade`
 
 ---
 
