@@ -55,6 +55,8 @@ curl -X POST 'https://ny.0slot.trade?api-key=$TOKEN' \
 - **NY**: `ny.0slot.trade`
 - **Frankfurt**: `de.0slot.trade`
 - **AMS NL**: `ams.0slot.trade`
+- **Tokyo**: `jp.0slot.trade`
+- **Los Angeles**: `la.0slot.trade`
 
 ---
 
