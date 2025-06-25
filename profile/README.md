@@ -52,9 +52,9 @@ curl -X POST 'https://ny.0slot.trade?api-key=$TOKEN' \
 ```
 
 #### For better performance and faster speeds, you can test and select the most suitable IP to use:
-- **NY**: `ny.0slot.trade`
+- **New York**: `ny.0slot.trade`
 - **Frankfurt**: `de.0slot.trade`
-- **AMS NL**: `ams.0slot.trade`
+- **Amsterdam**: `ams.0slot.trade`
 - **Tokyo**: `jp.0slot.trade`
 - **Los Angeles**: `la.0slot.trade`
 
@@ -83,7 +83,7 @@ curl -X POST 'https://ny.0slot.trade?api-key=$TOKEN' \
 
 Add an instruction to the Transaction (preferably inserted at the beginning):
 ```javascript
-transaction.addInstruction(fromPublicKey, '6fQaVhYZA4w3MBSXjJ81Vf6W1EDYeUPXpgVQ6UQyU1Av', 100000);
+transaction.addInstruction(SystemProgram.transfer(fromPublicKey, '6fQaVhYZA4w3MBSXjJ81Vf6W1EDYeUPXpgVQ6UQyU1Av', 1000000));
 ```
 
 We hope the above information helps you better understand and use the `staked_conn` interface. If you have any questions, please feel free to contact our support team.
