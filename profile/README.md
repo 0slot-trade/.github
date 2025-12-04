@@ -51,12 +51,14 @@ curl -X POST 'https://ny.0slot.trade?api-key=$TOKEN' \
 }'
 ```
 
-#### For better performance and faster speeds, you can test and select the most suitable IP to use:
+#### For better performance and faster speeds, you can test and select the most suitable servers to use:
 - **New York**: `ny.0slot.trade`
 - **Frankfurt**: `de.0slot.trade`
 - **Amsterdam**: `ams.0slot.trade`
 - **Tokyo**: `jp.0slot.trade`
 - **Los Angeles**: `la.0slot.trade`
+
+**You can also contact our sales or technical support team to obtain the servers that best suits your needs.**
 
 ---
 
