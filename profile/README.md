@@ -10,8 +10,8 @@ We created **0slot** to address these pain points, not only to solve our own cha
 
 | **Plan**       | **Trial (first week)** | **Entry** | **Intermediate** | **Advanced** |
 |-----------------|------------------------|-----------|-------------------|--------------|
-| **Billed per month** | $0                     | $280      | $700              | $1400        |
-| **Billed annually**  | $0                     | $3200     | $8100             | $16000       |
+| **Billed per month** | $0                     | **Free!**      | **Free!**              | **Free!**        |
+| **Billed annually**  | $0                     | Free!     | Free!             | Free!       |
 | **TPS**              | 5 TPS                  | 5 TPS     | 20 TPS            | 50 TPS       |
 | **SWQoS**            | Dedicated SWQoS        | Dedicated SWQoS | Dedicated SWQoS | Dedicated SWQoS |
 | **Transaction Tip**  | 0.001 SOL             | 0.001 SOL | 0.001 SOL        | 0.001 SOL   |
